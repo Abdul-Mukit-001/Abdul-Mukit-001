@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 I’m currently studying in International Islamic University Chittagong (IIUC)<br>👯 I’m looking to collaborate on problem solving<br>🤝 I’m looking for help with solving C problem<br>🌱 I’m currently learning C Programming Language<br>💬 Ask me anything : Q&A for Code Newbies!<br>⚡ Fun fact : Lazy but Brilliant!<br>
-![coding-skills-loading-dk68v8z0hevjpuiv](https://github.com/Abdul-Mukit-001/Abdul-Mukit-001/assets/129657507/91a2e82c-c1e4-4166-9777-169798e4ecb7)
+![programming-crazy](https://github.com/Abdul-Mukit-001/Abdul-Mukit-001/assets/129657507/2949bc95-8741-472e-b22f-9677754eafc7)
 
 
 ## 🌐 Socials:

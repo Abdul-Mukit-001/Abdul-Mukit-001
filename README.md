@@ -1,8 +1,7 @@
 ### Assalamualikum 👋
 
 # 💫 About Me:
-🔭 I’m currently studying in International Islamic University Chittagong (IIUC)<br>👯 I’m looking to collaborate on problem solving<br>🤝 I’m looking for help with solving C problem<br>🌱 I’m currently learning C Programming Language<br>💬 Ask me anything : Q&A for Code Newbies!<br>⚡ Fun fact : Lazy but Brilliant!<br>
-![programming-crazy](https://github.com/Abdul-Mukit-001/Abdul-Mukit-001/assets/129657507/2949bc95-8741-472e-b22f-9677754eafc7)
+🔭 I’m currently studying in International Islamic University Chittagong (IIUC)<br>👯 I’m looking to collaborate on problem solving<br>🤝 I’m looking for help with solving C problem<br>🌱 I’m currently learning C Programming Language<br>💬 Ask me anything : Q&A for Code Newbies!<br>⚡ Fun fact : Lazy but Brilliant!
 
 
 ## 🌐 Socials:
@@ -21,8 +20,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 😂 Me
+![programming-crazy](https://github.com/Abdul-Mukit-001/Abdul-Mukit-001/assets/129657507/2949bc95-8741-472e-b22f-9677754eafc7)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdul-Mukit-001&icon=0&color=12)](https://visitcount.itsvg.in)

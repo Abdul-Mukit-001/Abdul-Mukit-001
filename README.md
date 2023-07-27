@@ -1,7 +1,7 @@
 ### Assalamualikum 👋
 
 # 💫 About Me:
-🔭 I’m currently studying in International Islamic University Chittagong (IIUC)<br>👯 I’m looking to collaborate on problem solving<br>🤝 I’m looking for help with solving C problem<br>🌱 I’m currently learning C Programming Language<br>💬 Ask me anything : Q&A for Code Newbies!<br>⚡ Fun fact : Lazy but Brilliant!
+🔭 I’m currently studying in International Islamic University Chittagong (IIUC)<br>👯 I’m looking to collaborate on problem solving<br>🤝 I’m looking for help with solving C problem<br>🌱 I’m currently learning C Programming Language<br>💬 Ask me anything : Q&A for Code Newbies!<br>⚡ Fun fact : Lazy but Brilliant!<br>
 ![Uploading coding-skills-loading-dk68v8z0hevjpuiv.gif…]()
 
 
